@@ -11,10 +11,10 @@ import javax.persistence.OneToMany;
 import java.util.ArrayList;
 import java.util.List;
 
-@Entity
 @Data
 @NoArgsConstructor
-public class Link extends Auditable{
+@Entity
+public class Link extends Auditable {
 
     @Id
     @GeneratedValue

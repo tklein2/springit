@@ -8,9 +8,9 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.ManyToOne;
 
-@Entity
 @Data
 @NoArgsConstructor
+@Entity
 public class Comment extends Auditable{
 
     @Id
