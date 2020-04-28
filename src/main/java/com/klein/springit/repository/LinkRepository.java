@@ -1,4 +1,4 @@
-package repository;
+package com.klein.springit.repository;
 
 import com.klein.springit.domain.Link;
 import org.springframework.data.jpa.repository.JpaRepository;

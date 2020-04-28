@@ -1,4 +1,4 @@
-package domain;
+package com.klein.springit.domain;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

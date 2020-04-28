@@ -1,4 +1,4 @@
-package domain;
+package com.klein.springit.domain;
 
 import org.springframework.data.annotation.CreatedBy;
 import org.springframework.data.annotation.CreatedDate;

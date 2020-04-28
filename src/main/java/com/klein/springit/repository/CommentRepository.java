@@ -1,4 +1,4 @@
-package repository;
+package com.klein.springit.repository;
 
 import com.klein.springit.domain.Comment;
 import org.springframework.data.jpa.repository.JpaRepository;
